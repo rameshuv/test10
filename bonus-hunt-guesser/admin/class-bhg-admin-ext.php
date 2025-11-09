@@ -1,2 +1,0 @@
-<?php
-// admin ext placeholder
