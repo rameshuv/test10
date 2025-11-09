@@ -1,0 +1,2 @@
+<?php
+// results view placeholder

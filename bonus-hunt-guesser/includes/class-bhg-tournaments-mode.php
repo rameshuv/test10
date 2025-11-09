@@ -1,0 +1,2 @@
+<?php
+// tournaments mode placeholder
